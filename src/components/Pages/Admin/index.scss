@@ -1,0 +1,17 @@
+form{
+    button{
+        padding: 8px 117px;
+        margin-left: 10px;
+        font-size: 17px;
+        background-color: teal;
+        color: white;
+        border: 0;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: all 0.5s;
+    }
+
+    button:hover{
+        background-color: #025c5c;
+    }
+}
